@@ -10,4 +10,4 @@ I'm trying to do something about the TurboHud plugin... but I don't know if I ca
 ● But is it correct to write something like this here? (근데 여기 이런거 적는거 맞나?)
 ● All English written here is translated by Google Translate. (여기 적은 영어는 모두 구글 번역기 돌린거야)
 
-# Discord ID : El#3424
+# Discord ID : 
