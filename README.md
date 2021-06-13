@@ -1,6 +1,5 @@
 # plugins (허드 플러그인)
-turbohud plugins
-I'm trying to do something about the TurboHard plugin... but I don't know if I can update it. (터보허드 플러그인 관련된거 해보려고 하는데... 업데이트 할수 있을지 모르겟네)
+I'm trying to do something about the TurboHud plugin... but I don't know if I can update it. (터보허드 플러그인 관련된거 해보려고 하는데... 업데이트 할수 있을지 모르겟네)
 
 # Current situation here (현재상황)
 ● I don't know how to use Github, so I'm trying this and that. (깃허브 몰라, 이것저건 해보고 있음)
